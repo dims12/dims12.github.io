@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1447359435
+#1447794811
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,6 +26,9 @@ images/horizontalwheelvalve-sheet0.png
 images/verticalwheelvalve-sheet0.png
 images/applause-sheet0.png
 images/sprite7-sheet0.png
+images/sprite8-sheet0.png
+images/arrow-sheet0.png
+images/arrow-sheet1.png
 media/kiyaaa.m4a
 media/kiyaaa.ogg
 media/shhhhih.m4a
@@ -46,6 +49,8 @@ media/applause.m4a
 media/applause.ogg
 media/lagpres2.m4a
 media/lagpres2.ogg
+media/mountain_stream.m4a
+media/mountain_stream.ogg
 media/lagjeu4export.m4a
 media/lagjeu4export.ogg
 media/hazardous.m4a
